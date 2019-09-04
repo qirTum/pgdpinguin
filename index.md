@@ -20,7 +20,7 @@ Willst du auch Tutor werden, dann informiere dich beim [Tutorbetrieb der
 Informatik][tutorbetrieb] und registriere dich im [Tutor-Tool][tutortool].
 
 
-### Wie ich diese Website erstellt habe
+## Wie ich diese Website erstellt habe
 
 Ich habe diese Website mit Grundlage von der Website eines anderen Tutors ([affe.io][affeio] von Timon Giese) erstellt. Er hat die Dokumentation von seiner Website auf seinem [GitHub][timongit].
 
