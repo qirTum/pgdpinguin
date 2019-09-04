@@ -1,0 +1,68 @@
+    
+html * {
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	color: #000;
+	background-color: #fff;
+	font: normal normal normal 1rem/1.25rem serif;
+	text-decoration: none;
+}
+
+body, nav, h1, h2, h3, p, pre, ul, ol, li, a, em, strong, code {
+	color: inherit;
+	background-color: inherit;
+	font: inherit;
+	text-decoration: inherit;
+}
+
+body {
+	margin: 0 auto;
+	padding: 0 0.5rem;
+	max-width: 50rem;
+}
+
+nav, pre {
+	background-color: #ddd;
+	padding: 0.5rem;
+}
+
+h1, h2, h3, p, pre, ul, ol, li {
+	margin: 1rem 0;
+}
+
+h1, h2, h3, a:hover {
+	text-decoration: underline;
+}
+
+h1 {
+	font-size: 1.5rem;
+	line-height: 1.75rem;
+}
+
+h2 {
+	font-size: 1.25rem;
+	line-height: 1.5rem;
+}
+
+ul, ol {
+	padding-left: 1.5rem;
+}
+
+a {
+	color: #00f;
+}
+
+em {
+	font-style: italic;
+}
+
+strong {
+	font-weight: bold;
+}
+
+code {
+	font-family: monospace;
+}
