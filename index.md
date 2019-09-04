@@ -28,5 +28,5 @@ Ich habe diese Website mit Grundlage von der Website eines anderen Tutors ([affe
 [github]: https://github.com/qirTum
 [tutorbetrieb]: https://www.in.tum.de/fuer-studierende/tutorbetrieb-der-fakultaet-fuer-informatik
 [tutortool]: https://ddi.in.tum.de/tutor
-[affeio]: affe.io
+[affeio]: http://affe.io
 [timongit]: https://github.com/badeaffe/affe.io
