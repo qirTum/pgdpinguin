@@ -9,7 +9,10 @@ GitHub: [qirTum][github]
 
 # Meine Tutorien
 
-*Praktikum: Grundlagen der Programmierung im WiSe 2019/20
+* Praktikum: Grundlagen der Programmierung im WiSe 2019/20
+  ** Kurzes Tutorial zu Artemis
+  ** Aufgabenblätter
+  ** Tipps und Tricks
 
 ## Tutor werden
 
