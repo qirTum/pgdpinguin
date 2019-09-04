@@ -6,9 +6,9 @@ md2html()
 		$srcdir/$1.md -o $wwwdir/$1.html
 }
 
-srcdir=/home/affe/affe.io/
+srcdir=/home/pgdpinguin
 wwwdir=/var/www/html/
-remote=halle:/u/halle/gieset/home_page/html-data/
+remote=halle:/u/halle/qir/home_page/html-data/
 
 echo -n 'Exporting to local server... '
 rm $wwwdir/*
